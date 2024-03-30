@@ -1,18 +1,11 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=4000&pause=1400&center=true&vCenter=true&random=false&width=500&height=100&lines=Bienvenido+a+mi+perfil!;Mi+nombre+es+Roberto+Ortiz)](https://git.io/typing-svg)
+<img src="cabecera.png">
 </div>
 <h2 align="left">Sobre mí</h2>
 
-###
-
 <p align="left">Mi nombre es Roberto Ortiz, soy de Sevilla y nací en Mayo de 1993.<br>Actualmente soy estudiante del ciclo formativo de grado superior de desarrollo de aplicaciones multiplataforma.<br>Tengo el título de técnico en sistemas microinformáticos y redes pero he estado trabajando por 10 años en un sector completamente distinto. La informática siempre me ha apasionado y tras pensarlo mucho, decidí dejarlo todo para estudiar el ciclo superior y dedicarme a lo que realmente me gusta.</p>
 
-###
-
 <h2 align="left"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Competencias</h2>
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
@@ -50,8 +43,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
 
-###
-
 <h2 align="left">Biblioteca Personal: Lecturas Completadas y en Curso</h2>
 
 - [x] Clean Code.
@@ -59,24 +50,16 @@
 - [x] Git & GitHub desde cero.
 - [ ] Python para todos.
 
-###
-
 <h2 align="left">Contacto</h2>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/roberto-ortiz-l%C3%B3pez-a185232a1/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  </a>
   <a href="mailto:robeortizlopez@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
 
 <h2>  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats </h2>
 <div align="center">
