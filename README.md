@@ -1,5 +1,5 @@
 <div align="center">
-<img src="cabecera.jpeg"  alt="cabecera" width="800" height="400"/>
+<img src="cabecera.jpeg"  alt="cabecera"/>
 </div>
 
 <h2 align="left">Sobre mí</h2>
