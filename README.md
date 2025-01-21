@@ -65,13 +65,6 @@
 
 </div>
 
-<h2 align="left">Biblioteca Personal: Lecturas Completadas y en Curso</h2>
-
-- [x] Clean Code.
-- [ ] Java para novatos.
-- [x] Git & GitHub desde cero.
-- [ ] Python para todos.
-
 <h2 align="left">Contacto</h2>
 
 <div align="left">
